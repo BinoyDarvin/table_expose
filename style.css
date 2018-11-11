@@ -1,0 +1,76 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+form{
+    display: block;
+    text-align: center;
+    margin-top: 7%;
+}
+
+form input{
+    margin: 0 auto;
+    margin-top: 10px;;
+    display: block;
+    height: 53px;
+    width: 450px;
+    padding: 12px;
+    outline: none;
+    border:2px solid #00bfc2;
+    font-weight: bold;
+    color: #8f959a;
+}
+
+.btn{
+    width: 450px;
+    margin: 15px 0;
+    background: #008BF8;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+   background: #008BF8;
+    color: #fff;
+}
+
+
+/*ULTRA HEAD*/
+
+.ultra-head{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+/*card styles*/
+.card{
+    width: 450px;
+    height: auto;
+    box-shadow: 0 4px 15px -2px rgba(0, 0, 0, 0.35);
+    border-radius: 4px;
+    background: #fff;
+    display: inline-block;
+    padding-bottom: 25px;
+    margin-bottom: 12px;
+}
+
+.card-head{
+    color: #00bfc2;
+    font-size: 35px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+
+.query-text{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    color: #8f959a;
+    text-align: left;
+    margin: 0px 40px;
+}
